@@ -1,21 +1,4 @@
----
-cover: .gitbook/assets/banner.png
-coverY: 36.68266666666666
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+
 
 # 🔎 Default System overview
 
