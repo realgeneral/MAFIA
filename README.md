@@ -8,7 +8,7 @@ The SPL22 NFT x Token Hybrid Deflation System is one of the latest token standar
 
 ### How it works?
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Current System Structure</p></figcaption></figure>
+<figure><img src="./.gitbook/assets/image (2).png" alt=""><figcaption><p>Current System Structure</p></figcaption></figure>
 
 The two-way bridge created by [LibrePlex](https://twitter.com/LibrePlex) acts as an Escrow between SPL22s (NFTs) and SPL (fungible tokens), allowing users to exchange NFTs for tokens and vice versa.
 
